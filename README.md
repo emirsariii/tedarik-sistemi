@@ -15,6 +15,10 @@ Restoran işletmelerinde tedarik zinciri ve stok süreçlerini dijitalleştiren,
 
 </div>
 
+
+https://github.com/user-attachments/assets/65240d90-6c91-4b6c-b32b-bdc1cd86a810
+
+
 ---
 
 ## 📋 Proje Hakkında
