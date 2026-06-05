@@ -1,29 +1,31 @@
-backend/node_modules/
+# Bağımlılıklar
+node_modules/
 backend/node_modules/
 frontend/node_modules/
- 
+
+# Ortam değişkenleri (ÖNEMLİ: şifre ve secret key içerir)
 .env
 .env.local
 .env.production
 .env.development
- 
 
+# Log dosyaları
 logs/
 *.log
 npm-debug.log*
- 
+
 # İşletim sistemi dosyaları
 .DS_Store
 Thumbs.db
 desktop.ini
- 
+
 # IDE / Editör dosyaları
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
- 
+
 # Build çıktıları
 dist/
 build/
