@@ -1,0 +1,4 @@
+Admin: admin@restoran.com / Admin@123
+Depo Sorumlusu: depo@restoran.com / Depo@123
+Satın Alma Sorumlusu: satin@restoran.com / Satin@123
+Yönetici: yonetici@restoran.com / Yonetici@123
